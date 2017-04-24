@@ -56,7 +56,7 @@ public class Main {
 
             }else{
                 terminar=true;
-                System.out.println("juego terminado");
+                System.out.println("juego terminado chauuuuu");
             };
 
         }
